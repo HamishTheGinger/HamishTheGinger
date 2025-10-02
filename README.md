@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
+🔭 I’m currently working on: 4th Year Dissertation<br>
+<!--👯 I’m looking to collaborate on<br>
+🤝 I’m looking for help with<br>-->
+🌱 I’m currently learning: Haskell<br>
 💬 Ask me about<br>
 ⚡ Fun fact
 
