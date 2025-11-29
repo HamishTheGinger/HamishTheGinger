@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: 4th Year Dissertation<br>
+🔭 I’m currently working on: 4th Year Dissertation - Computing Science Education in Primary School<br>
 <!--👯 I’m looking to collaborate on<br>
 🤝 I’m looking for help with<br>-->
 🌱 I’m currently learning: Haskell<br>
