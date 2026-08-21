@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on: 4th Year Dissertation - Improving Primary Teachers Motivation for Computing<br>
-🌱 I’m currently learning: Haskell and SpringBoot<br>
+🔭 I’m currently working on: 5th Year Research Project - *Project TBC*<br>
+🌱 I’m currently learning: <br>
 <!--
 👯 I’m looking to collaborate on<br>
 🤝 I’m looking for help with<br>
