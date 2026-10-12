@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: 5th Year Research Project - *Project TBC*<br>
+🔭 I’m currently working on: 5th Year Research Project - What Is Computing Science? Teacher Perspectives and Curricular Alignment<br>
 🌱 I’m currently learning: <br>
 <!--
 👯 I’m looking to collaborate on<br>
